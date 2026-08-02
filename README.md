@@ -1,7 +1,7 @@
 ## Hi 👋
 
 
-![1](./images/1.jpg)
+![1](./images/1.gif)
 
 
 
