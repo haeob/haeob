@@ -6,7 +6,7 @@
 
 
 ## list
-- krita-plugins:
+- krita-plugins:[krita-studio](https://github.com/haeob/krita-studio)
 
 
 <!--
