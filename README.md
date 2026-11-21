@@ -6,7 +6,7 @@
 
 
 ## list
-- Krita
+- krita-plugins:
 
 
 <!--
