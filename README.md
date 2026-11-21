@@ -1,13 +1,17 @@
 ## Hi 👋
 
 
-![1](./images/1.gif)
+
 
 
 
 ## list
 - Krita
 
+
+<!--
+![1](./images/1.gif)
+-->
 
 <!--
 **haeob/haeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
