@@ -7,7 +7,7 @@
 
 ## list
 - krita-plugins:
-  - [kkrita-muastudio](https://github.com/haeob/krita-muastudio/)
+  - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
 
 
 <!--
