@@ -11,8 +11,7 @@
 
 - dsh-plugins：
 
-- krita-plugins:
-  - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
+- krita-plugins: [krita-muastudio](https://github.com/haeob/krita-muastudio/)
   
 - obs-plugins:
 
