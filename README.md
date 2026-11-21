@@ -6,12 +6,17 @@
 
 
 ## plugin list (inbox)
+
+- obsidian-plugins:
+
+- dsh-plugins：
+
 - krita-plugins:
   - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
-
+  
 - obs-plugins:
-- obsidian-plugins:
-- dsh-plugins：
+
+
 
 <!--
 ![1](./images/1.gif)
