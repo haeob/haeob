@@ -5,7 +5,7 @@
 
 
 
-## plugins list (inbox)
+## plugin list (inbox)
 - krita-plugins:
   - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
 
