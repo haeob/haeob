@@ -9,7 +9,7 @@
 - krita-plugins:
   - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
 
-- obs-plugins
+- obs-plugins:
 - obsidian-plugins:
 - dsh-plugins：
 
