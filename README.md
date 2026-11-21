@@ -5,9 +5,12 @@
 
 
 
-## list
+## list(inbox)
 - krita-plugins:
   - [krita-muastudio](https://github.com/haeob/krita-muastudio/)
+
+- obsidian-plugins:
+
 
 
 <!--
